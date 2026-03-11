@@ -61,6 +61,9 @@ my-portfolio
 ## Website Preview 
 <img width="1817" height="879" alt="Screenshot 2026-03-11 140605" src="https://github.com/user-attachments/assets/35f6534b-0d0b-4e8f-992a-21f654aa5f3d" />
 
+<img width="1657" height="880" alt="Screenshot 2026-03-11 140846" src="https://github.com/user-attachments/assets/020a7770-a2c8-435b-82c0-965b2157ceba" />
+
+
 ---
 
 ## Author
