@@ -54,7 +54,11 @@ my-portfolio
 
 ## Future Improvements
 
-• Add futere projects   
+• Add future projects   
+
+---
+
+## Website Preview 
 
 ---
 
